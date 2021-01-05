@@ -1,0 +1,8 @@
+{
+  "tools": "./src/utils/tools.ts",
+  "bridge": "./src/utils/bridge.ts",
+  "env": "./src/utils/env.ts",
+  "cookie": "./src/utils/cookie.ts",
+  "storage": "./src/utils/storage.ts",
+  "url": "./src/utils/url.ts"
+}
