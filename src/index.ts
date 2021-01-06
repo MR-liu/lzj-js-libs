@@ -35,9 +35,11 @@ import _lzjCookie from './utils/cookie';
 import _lzjTools from './utils/tools';
 import _lzjStorage from './utils/storage';
 import _lzjUrl from './utils/url';
+import _lzjDepository from './utils/depository';
 
 export const lzjEnv = _lzjEnv;
 export const lzjCookie = _lzjCookie;
 export const lzjTools = _lzjTools;
 export const lzjStorage = _lzjStorage;
 export const lzjUrl = _lzjUrl;
+export const lzjDepository = _lzjDepository;
